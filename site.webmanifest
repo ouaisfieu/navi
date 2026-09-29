@@ -1,0 +1,21 @@
+{
+ "name": "navi — Géosociopolitique mondiale, focus Belgique",
+ "short_name": "navi",
+ "lang": "fr-BE",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0f1412",
+ "theme_color": "#0f1412",
+ "icons": [
+  {
+   "src": "assets/logo.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
